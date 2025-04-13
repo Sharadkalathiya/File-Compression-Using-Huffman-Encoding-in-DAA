@@ -87,4 +87,4 @@ This project demonstrates the usage of **Trees** and **Linked Lists** in the imp
 ## Author
 
 - **Name**: [Sharad Kalathiya].
-* https://www.linkedin.com/in/sharadkalathiya/ *
+* https://www.linkedin.com/in/sharadkalathiya/ 
